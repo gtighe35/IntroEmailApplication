@@ -13,7 +13,7 @@ namespace IntroEmailApplication
       Console.WriteLine("Welcome to the command line email client!");
 
       var loop = true;
-
+  
       while (loop)
       {
         Console.WriteLine();
